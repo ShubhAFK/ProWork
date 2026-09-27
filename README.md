@@ -34,11 +34,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Member profiles with contribution tracking
 - Modern dark UI with animations
 
-## Default Credentials
-
-- Admin Password: `ro696969ho`
-- Member Password: `user2026`
-
 ## Learn More
 
 - [Flutter Documentation](https://docs.flutter.dev/)
