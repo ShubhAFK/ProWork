@@ -1,0 +1,29 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Android
+android/build/
+android/.gradle/
+android/.kotlin/
+android/local.properties
+android/app/google-services.json
+
+# IDE
+.idea/
+*.iml
+
+# OS
+desktop.ini
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Build artifacts
+*.apk
+*.aar
+*.zip

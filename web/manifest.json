@@ -1,0 +1,11 @@
+{
+    "name": "ProWork",
+    "short_name": "ProWork",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "ProWork - Sleek team project progress and member contribution tracker",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
